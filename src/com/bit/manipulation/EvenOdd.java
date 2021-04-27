@@ -6,7 +6,7 @@ package com.bit.manipulation;
 /**
  * Given a number find whether its even or odd number
  * 
- * Important Note: In binary format, if the last bit will be zero for even number and 1 for odd number
+ * Important Note: In binary format, the last bit will be zero for even number and 1 for odd number
  *                 2 -> 010
  *                 4 -> 100
  *                 6 -> 110
